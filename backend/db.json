@@ -1,0 +1,67 @@
+{
+  "data": [
+    {
+      "firstName": "Muditha",
+      "city": "Kalaniya",
+      "email": "Mudith@gmail.com",
+      "phone": "1234567890",
+      "status": "Active",
+      "Gender": "Male",
+      "id": 1
+    },
+    {
+      "firstName": "Madara",
+      "city": "Panadura",
+      "email": "Madara@gmail.com",
+      "phone": "1234567890",
+      "status": "Active",
+      "Gender": "Female",
+      "id": 2
+    },
+    {
+      "firstName": "Sachintha",
+      "city": "Walasmulla",
+      "email": "Sachintha@gmail.com",
+      "Gender": "Male",
+      "phone": 1234567890,
+      "status": "Active",
+      "id": 3
+    },
+    {
+      "firstName": "Gimhani",
+      "city": "Padukka",
+      "email": "Gimhani@gmail.com",
+      "phone": "1234567890",
+      "status": "Active",
+      "Gender": "Female",
+      "id": 4
+    },
+    {
+      "id": 5,
+      "firstName": "Dilini",
+      "email": "Dilini@gmail.com",
+      "phone": 1234567890,
+      "city": "Galle",
+      "Gender": "Female",
+      "status": "Deactivated"
+    },
+    {
+      "id": 6,
+      "firstName": "Vimukthi",
+      "email": "Vimukthi@gmail.com",
+      "phone": 1234567890,
+      "city": "Malabe",
+      "status": "Active",
+      "Gender": "Male"
+    },
+    {
+      "firstName": "Nimala",
+      "city": "Jaffna",
+      "email": "Nimala@gmail.com",
+      "phone": "1234567899",
+      "Gender": "Male",
+      "status": "Active",
+      "id": 7
+    }
+  ]
+}
